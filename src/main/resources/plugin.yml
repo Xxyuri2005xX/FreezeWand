@@ -1,0 +1,4 @@
+name: FreezeWand
+version: '${version}'
+main: it.xxyuri2005xx.freezewand.Main
+description: Freeze Wand plugin
